@@ -1,8 +1,8 @@
 ## Olá, Me chamo Vitor!
 <div align="center">
   <a href="https://github.com/vitormavancini">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=vitormavancini&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormavancini&layout=compact&langs_count=7&theme=nord"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vitormavancini&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormavancini&layout=compact&langs_count=7&theme=nord"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Sales" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
