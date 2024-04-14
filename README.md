@@ -17,7 +17,7 @@
 
 Me chamo [Vitor Avancini](https://www.linkedin.com/in/vitorlmavancini/) e sou graduado em Sistema de Informação.
 
-Atuo como Analista Desenvolvedor | ADVPL | TLPP.
+Atuo como Desenvolvedor TOTVS Protheus | ADVPL | TLPP | SQL SERVER
 
 
 <!-- Status -->
